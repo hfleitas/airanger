@@ -1,2 +1,2 @@
-# airanger
+# AI Ranger
 AI Ranger Talk
