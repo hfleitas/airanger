@@ -1,4 +1,4 @@
-If you have a moment, could you please be so kind to share some feedback for the Synapse ML team regarding common pain points faced while:
+Hi, If you have a moment, could you please be so kind to share some feedback for the Synapse ML team regarding common pain points faced while:
 
 1.	Data cleansing
 2.	Exploring
