@@ -16,13 +16,13 @@ AI Ranger Talk
 | Step | Journey |
 | ------- | ------- |
 | 1 | [Iris](https://docs.microsoft.com/sql/machine-learning/predictions/native-scoring-predict-transact-sql) |
-| 1 | [Ski](https://aka.ms/mlsqldev) |
-| 1 | [Text](https://docs.microsoft.com/learn/paths/explore-natural-language-processing/) |
-| 1 | [Forms](https://docs.microsoft.com/paths/improve-business-performance-ai-builder/) |
-| 1 | [Image](https://docs.microsoft.com/ai-builder/get-started-with-object-detection) |
-| 1 | [LoS](https://github.com/microsoft/r-server-hospital-length-of-stay) | 
-| 1 | [Price](https://docs.microsoft.com/shows/ai-show/machine-learning-experiences-in-azure-synapse) |
-| 1 | [♾️](https://docs.microsoft.com/azure/synapse-analytics/machine-learning/tutorial-score-model-predict-spark-pool) |
+| 2 | [Ski](https://aka.ms/mlsqldev) |
+| 3 | [Text](https://docs.microsoft.com/learn/paths/explore-natural-language-processing/) |
+| 4 | [Forms](https://docs.microsoft.com/paths/improve-business-performance-ai-builder/) |
+| 5 | [Image](https://docs.microsoft.com/ai-builder/get-started-with-object-detection) |
+| 6 | [LoS](https://github.com/microsoft/r-server-hospital-length-of-stay) | 
+| 7 | [Price](https://docs.microsoft.com/shows/ai-show/machine-learning-experiences-in-azure-synapse) |
+| 8 | [♾️](https://docs.microsoft.com/azure/synapse-analytics/machine-learning/tutorial-score-model-predict-spark-pool) |
 
 ## Resources
 
