@@ -26,13 +26,12 @@ AI Ranger Talk
 
 ## Resources
 
-* [Trollhunters.ipynb](https://github.com/hfleitas/airanger/blob/main/Notebooks/Trollhunters.ipynb)
-* [PVA - Build Printer Troubleshooting Bot](https://github.com/hfleitas/airanger/blob/main/PVA%20Assets/Custom-PowerPlatform3x-5VirtualAgents-DemoJarvis.pdf)
-* [Form Processing - Create first model](https://docs.microsoft.com/learn/modules/get-started-with-form-processing/2-create-first-model)
-* [CapitalModel.ipynb](https://github.com/hfleitas/AzureSynapseForActuaries/blob/main/CodeSamples/CapitalModel.ipynb)
-* [LoS - Realtime Scoring](https://github.com/hfleitas/r-server-hospital-length-of-stay/blob/master/SQLPy/Claims/DbaHospitalLoSClaims.ipynb)
-* [E2E_MLFLOW_Sklearn_ADLS](https://ms.web.azuresynapse.net/en-us/authoring/analyze/notebooks/E2E_MLFLOW_Sklearn_ADLS?workspace=%2Fsubscriptions%2Fe4e06275-58d1-4081-8f1b-be12462eb701%2FresourceGroups%2Fwplushiramsynapse%2Fproviders%2FMicrosoft.Synapse%2Fworkspaces%2Fwplushiramsynapse)
-
-* [3 min - Video](https://youtube.com/watch?v=NGbk9XGWTHI&t=3163s)
-* [1 hr - Video](https://www.youtube.com/watch?v=9xf4cAVYk3o)
-* [SynapseML](https://microsoft.github.io/SynapseML/)
+1. [Trollhunters.ipynb](https://github.com/hfleitas/airanger/blob/main/Notebooks/Trollhunters.ipynb)
+2. [PVA - Build Printer Troubleshooting Bot](https://github.com/hfleitas/airanger/blob/main/PVA%20Assets/Custom-PowerPlatform3x-5VirtualAgents-DemoJarvis.pdf)
+3. [Form Processing - Create first model](https://docs.microsoft.com/learn/modules/get-started-with-form-processing/2-create-first-model)
+4. [CapitalModel.ipynb](https://github.com/hfleitas/AzureSynapseForActuaries/blob/main/CodeSamples/CapitalModel.ipynb)
+5. [LoS - Realtime Scoring](https://github.com/hfleitas/r-server-hospital-length-of-stay/blob/master/SQLPy/Claims/DbaHospitalLoSClaims.ipynb)
+6. [E2E_MLFLOW_Sklearn_ADLS](https://ms.web.azuresynapse.net/en-us/authoring/analyze/notebooks/E2E_MLFLOW_Sklearn_ADLS?workspace=%2Fsubscriptions%2Fe4e06275-58d1-4081-8f1b-be12462eb701%2FresourceGroups%2Fwplushiramsynapse%2Fproviders%2FMicrosoft.Synapse%2Fworkspaces%2Fwplushiramsynapse)
+7. [3 min - Video](https://youtube.com/watch?v=NGbk9XGWTHI&t=3163s)
+8. [1 hr - Video](https://www.youtube.com/watch?v=9xf4cAVYk3o)
+9. [SynapseML](https://microsoft.github.io/SynapseML/)
